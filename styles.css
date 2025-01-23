@@ -33,15 +33,6 @@ main {
     margin-bottom: 10px;
 }
 
-/* Третья картинка - большая и прямоугольная */
-.art-grid img.large-art {
-    max-width: 600px; /* Широкая картинка */
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
-}
 .content p {
     text-align: justify;
     margin-bottom: 15px;
