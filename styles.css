@@ -38,6 +38,17 @@ main {
     margin-bottom: 15px;
 }
 
+
+<section class="gallery">
+    <h2>Галерея артов</h2>
+    <div class="art-grid">
+        <img src="1.jpg" alt="Арт 1">
+        <img src="2.jpg" alt="Арт 2">
+        <img src="32.jpg" alt="Арт 3" class="large-art">
+    </div>
+</section>
+
+
 /* Галерея артов */
 .gallery {
     margin-top: 40px;
